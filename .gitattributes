@@ -1,0 +1,11 @@
+* text=auto
+*.java text=auto eol=lf
+
+# Binary files
+*.jar binary
+*.jpg binary
+*.qmg binary
+*.png binary
+*.apk binary
+*.exe binary
+aapt binary
